@@ -39,7 +39,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akashdeep070/)
 - 🌐 [NextHive.site](https://nexthive.site)
-- 📨 Reach me at **[akashdeep070@gmail.com](mailto:akashdeep070@gmail.com)**
+- 📨 Reach me at **[akashdeep2594@gmail.com](mailto:akashdeep2594@gmail.com)**
 
 ---
 
