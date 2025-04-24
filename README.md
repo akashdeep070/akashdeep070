@@ -30,7 +30,8 @@
 
 <p align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashdeep070&show_icons=true&theme=tokyonight)  
+  ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=akashdeep070&show_icons=true&theme=tokyonight)
+  
 </p>
 
 ---
