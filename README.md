@@ -30,7 +30,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashdeep070&theme=tokyonight" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashdeep070&show_icons=true&theme=tokyonight)  
 </p>
 
 ---
