@@ -7,14 +7,6 @@
 
 ---
 
-## 🧠 What I'm Working On
-
-- 🌐 Building **NextHive.site** — a network & toolkit for early-stage startups and founders
-- ⚙️ Working with **JavaScript**, **Python**, **React**, **LLMs**, and cloud infra
-- 📚 Constantly learning about AI, software architecture, and startup ecosystems
-
----
-
 ## 🛠️ Technologies & Tools
 
 ![Lua](https://img.shields.io/badge/lua-%232B2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
