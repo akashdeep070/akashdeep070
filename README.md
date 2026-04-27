@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Akash Deep
 
-💡 Creator of **[NextHive.site](https://nexthive.site)** — *a platform to help startups grow and collaborate*\
 🎓 Currently pursuing Computer Science  at **IIT Patna**\
 📍 Originally from **Lucknow**, India\
 🚀 Passionate about AI, system design, and building meaningful tech products.
